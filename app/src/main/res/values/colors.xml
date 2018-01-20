@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1c8e77</color>
+    <color name="colorPrimaryDark">#004D40</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="toolBarColor">#1c8e77</color>
+    <color name="whiteColor">#71ffffff</color>
+    <color name="greyColor">#888585</color>
+
+    <color name="boutonLoginColor">#1cbe9d</color>
+
+    <item name="gray_holo_dark" type="color">#ff464646</item>
+    <item name="gray_holo_light" type="color">#ffd0d0d0</item>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="img_size">260dp</dimen>
+    <dimen name="img_sizeLigne">320dp</dimen>
+</resources>
